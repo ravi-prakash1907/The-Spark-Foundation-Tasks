@@ -12,7 +12,7 @@ _Level-Beginner (Task-2)_
 ## Task submission:  
 Try to run the solution on google colab by clicking [here](https://colab.research.google.com/github/ravi-prakash1907/The-Spark-Foundation-Tasks/blob/main/Task2/task2.ipynb).  
 The complete source-code is available at [this GitHub link](https://github.com/ravi-prakash1907/The-Spark-Foundation-Tasks/edit/main/Task2).  
-_The recording the code and output can be at [YouTube](#)._  
+_The recording the code and output can be accessed at [YouTube](#)._  
 
 ---
 
