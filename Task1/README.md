@@ -1,6 +1,6 @@
 # Prediction using Supervised ML  
 
-_(Level-Beginner)_ | _(Task-1)_ 
+_Level-Beginner (Task-1)_ 
 
 ## Procedure  
 * Predict the percentage of an student based on the no. of study hours.  
@@ -14,3 +14,7 @@ _(Level-Beginner)_ | _(Task-1)_
 Try to run the solution on google colab by clicking [here](https://colab.research.google.com/github/ravi-prakash1907/The-Spark-Foundation-Tasks/blob/main/Task1/task1.ipynb).  
 The complete source-code is available at [this GitHub link](https://github.com/ravi-prakash1907/The-Spark-Foundation-Tasks/edit/main/Task1).  
 _The recording the code and output can be at [YouTube](#)._  
+
+---
+
+[Back to all tasks!](../)
