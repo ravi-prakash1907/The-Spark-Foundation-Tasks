@@ -11,6 +11,4 @@ _(Level-Beginner)_ | _(Task-1)_
 * Sample Solution : https://bit.ly/2HxiGGJ  
 
 ## Task submission:  
-1. Host the code on GitHub Repository (public). Record the code and output in a video. Post the video on YouTube  
-2. Share links of code (GitHub) and video (YouTube) as a post on YOUR LinkedIn profile, not TSF Network.  
-3. Submit the LinkedIn link in Task Submission Form when shared.
+_The recording the code and output in a video format can be at YouTube [here](#)._  
