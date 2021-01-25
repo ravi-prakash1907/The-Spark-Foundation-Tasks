@@ -1,5 +1,5 @@
-# The-Spark-Foundation-Tasks
-Includes tasks completed during the data-science internship at The Spark Foundation.
+# The-Sparks-Foundation-Tasks
+Includes tasks completed during the data-science internship at The Sparks Foundation.
 
 ## Tasks  
 
@@ -11,7 +11,7 @@ Here, are the links to the implemented tasks:
 > To access the python notebook, visit [here](./Task1/task1.ipynb).  
 
 * [**Task 2**](./Task2/)  
-> It is a basic level implementation of an **usupervised machine learning** model using KMeans Clustering.  
+> It is a basic level implementation of an **unsupervised machine learning** model using KMeans Clustering.  
 > Here the objective is to predict the optimal clusters for _Iris_ dataset.  
 > To access the python notebook, visit [here](Task2/task2.ipynb).  
 
