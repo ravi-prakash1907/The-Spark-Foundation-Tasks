@@ -11,8 +11,8 @@ _Level-Beginner (Task-1)_
 * Sample Solution : https://bit.ly/2HxiGGJ  
 
 ## Task submission:  
-Try to run the solution on google colab by clicking [here](https://colab.research.google.com/github/ravi-prakash1907/The-Spark-Foundation-Tasks/blob/main/Task1/task1.ipynb).  
-The complete source-code is available at [this GitHub link](https://github.com/ravi-prakash1907/The-Spark-Foundation-Tasks/edit/main/Task1).  
+Try to run the solution on google colab by clicking [here](https://colab.research.google.com/github/ravi-prakash1907/The-Sparks-Foundation-Tasks/blob/main/Task1/task1.ipynb).  
+The complete source-code is available at [this GitHub link](https://github.com/ravi-prakash1907/The-Sparks-Foundation-Tasks/edit/main/Task1).  
 _The recording the code and output can be accessed at [YouTube](https://youtu.be/CnhqEKB8xIY)._  
 
 ---
