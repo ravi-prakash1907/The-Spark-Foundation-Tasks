@@ -6,8 +6,8 @@ Includes tasks completed during the data-science internship at The Spark Foundat
 Here, are the links to the implemented tasks:  
 
 * [**Task 1**](./Task1/)  
-> It is a basic level implementation of a **supervised machine learning** model trained on Linear Regrassion.  
-> Here the objective is to predict the marks that a student can score, provided number of houres he/she studies.  
+> It is a basic level implementation of a **supervised machine learning** model trained on Linear Regression.  
+> Here the objective is to predict the marks that a student can score, provided number of hours he/she studies.  
 > To access the python notebook, visit [here](./Task1/task1.ipynb).  
 
 * [**Task 2**](./Task2/)  
